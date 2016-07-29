@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SPISS_OPENAPI.iml" filepath="$PROJECT_DIR$/SPISS_OPENAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPISS_OPENAPI_ACH/SPISS_OPENAPI_ACH.iml" filepath="$PROJECT_DIR$/SPISS_OPENAPI_ACH/SPISS_OPENAPI_ACH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPISS_OPENAPI_BASE/SPISS_OPENAPI_BASE.iml" filepath="$PROJECT_DIR$/SPISS_OPENAPI_BASE/SPISS_OPENAPI_BASE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPISS_OPENAPI_CONFIG/SPISS_OPENAPI_CONFIG.iml" filepath="$PROJECT_DIR$/SPISS_OPENAPI_CONFIG/SPISS_OPENAPI_CONFIG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPISS_OPENAPI_DISCOVERY/SPISS_OPENAPI_DISCOVERY.iml" filepath="$PROJECT_DIR$/SPISS_OPENAPI_DISCOVERY/SPISS_OPENAPI_DISCOVERY.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPISS_OPENAPI_INV/SPISS_OPENAPI_INV.iml" filepath="$PROJECT_DIR$/SPISS_OPENAPI_INV/SPISS_OPENAPI_INV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPISS_OPENAPI_RTM/SPISS_OPENAPI_RTM.iml" filepath="$PROJECT_DIR$/SPISS_OPENAPI_RTM/SPISS_OPENAPI_RTM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPISS_OPENAPI_SA/SPISS_OPENAPI_SA.iml" filepath="$PROJECT_DIR$/SPISS_OPENAPI_SA/SPISS_OPENAPI_SA.iml" />
+    </modules>
+  </component>
+</project>
