@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: base
+  cloud:
+    config:
+      uri: http://localhost:8888
+      profile: dev
+encrypt:
+  failOnError: false

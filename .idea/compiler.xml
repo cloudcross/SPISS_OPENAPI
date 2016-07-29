@@ -27,6 +27,7 @@
         <module name="SPISS_OPENAPI_CONFIG" />
         <module name="SPISS_OPENAPI_DISCOVERY" />
         <module name="SPISS_OPENAPI_INV" />
+        <module name="SPISS_OPENAPI_PROXY" />
         <module name="SPISS_OPENAPI_RTM" />
         <module name="SPISS_OPENAPI_SA" />
       </profile>
@@ -38,6 +39,7 @@
       <module name="SPISS_OPENAPI_CONFIG" target="1.7" />
       <module name="SPISS_OPENAPI_DISCOVERY" target="1.7" />
       <module name="SPISS_OPENAPI_INV" target="1.7" />
+      <module name="SPISS_OPENAPI_PROXY" target="1.7" />
       <module name="SPISS_OPENAPI_RTM" target="1.7" />
       <module name="SPISS_OPENAPI_SA" target="1.7" />
     </bytecodeTargetLevel>

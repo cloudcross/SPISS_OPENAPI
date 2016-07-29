@@ -14,8 +14,9 @@
         <module>SPISS_OPENAPI_INV</module><!--隐患排查业务数据-->
         <module>SPISS_OPENAPI_ACH</module><!--工作绩效汇总数据-->
         <module>SPISS_OPENAPI_SA</module><!--统计分析结论数据-->
-        <module>SPISS_OPENAPI_RTM</module>
-        <module>SPISS_OPENAPI_DISCOVERY</module>
+        <module>SPISS_OPENAPI_RTM</module><!--实时监控数据-->
+        <module>SPISS_OPENAPI_DISCOVERY</module><!--服务注册中心-->
+        <module>SPISS_OPENAPI_PROXY</module><!--全服务代理-->
         <!--工作实时监控数据-->
     </modules>
 

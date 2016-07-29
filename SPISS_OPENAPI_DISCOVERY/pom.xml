@@ -28,7 +28,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <version>1.2.3.RELEASE</version>
                 <configuration>
-                    <mainClass>com.jht.spiss.openapi.base.Application</mainClass>
+                    <mainClass>com.jht.spiss.openapi.discovery.Application</mainClass>
                 </configuration>
                 <executions>
                     <execution>
